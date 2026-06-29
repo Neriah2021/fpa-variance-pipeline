@@ -1,0 +1,7 @@
+dbt-venv/
+logs/
+fpa_pipeline/logs/
+fpa_pipeline/target/
+__pycache__/
+*.pyc
+meridian_corp_variance_report.xlsx
