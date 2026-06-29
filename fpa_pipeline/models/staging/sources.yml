@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: meridian
+    database: project-3887205e-dca0-460f-b5b
+    schema: Meridian_Corp
+    tables:
+      - name: raw_budget_actuals
